@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Puerto Rico, at Mayagüez
+    url: https://www.uprm.edu/math/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer and Information Science and Engineering
+      institution: University of Puerto Rico, at Mayagüez
+      year: 2020
+    - course: MSc in Scientific Computing
+      institution: University of Puerto Rico, at Mayagüez
+      year: 2015
+    - course: BS in Mathematics
+      institution: Universidad del Atlántico
+      year: 20009
 email: ""
 superuser: true
 highlight_name: true
