@@ -36,7 +36,7 @@ education:
       year: 2015
     - course: BS in Mathematics
       institution: Universidad del Atlántico
-      year: 20009
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
