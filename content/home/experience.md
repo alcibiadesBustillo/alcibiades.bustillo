@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: University of Puerto Rico, at Mayag\"uez
+    company: University of Puerto Rico, at Mayaguez
     company_url: ''
     company_logo: seal-rum-uprm
     location: Mayaguez, PR
