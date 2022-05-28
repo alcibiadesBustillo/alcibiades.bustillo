@@ -41,7 +41,7 @@ experience:
         * Coordinate Infomate course.
         * Coordinate Diagnostic exam.
       
-  - title: Professor of Semiconductor Physics2
+  - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x
