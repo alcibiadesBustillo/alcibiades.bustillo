@@ -25,7 +25,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: University of Puerto Rico, at Mayaguez
     company_url: ''
-    company_logo: seal-rum-uprm
+    company_logo: org-x
     location: Mayaguez, PR
     date_start: 'Spring 2021'
     date_end: ''
