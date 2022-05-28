@@ -29,7 +29,18 @@ experience:
     location: Mayaguez, PR
     date_start: '2021-01-31'
     date_end: ''
-    description: Taught Graduate and Undergraduate courses
+    description: |2-
+    
+        Responsibilities include:
+        
+        * Taught Graduate and Undergraduate courses:
+          - High Performance Computing (COMP 6786)
+          - Computer Organizations (COMP 4016).
+          - Programming Languages (COMP 4036).
+          - Computer Graphics (COMP 4046).
+          - Mathematical Analysis for Management Sciences (MATE 3049 - Summer)
+        * Coordinate Infomate course.
+        * Coordinate Diagnostic exam.
 
 design:
   columns: '2'
