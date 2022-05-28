@@ -28,7 +28,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Mayaguez, PR
-    date_start: 'Spring 2021'
+    date_start: '01-04-2021'
     date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
