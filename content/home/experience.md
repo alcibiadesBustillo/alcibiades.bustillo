@@ -22,20 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Professor
+    company: University of Puerto Rico, at Mayag\"uez
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Mayaguez, PR
+    date_start: 'Spring 2021'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-
+        * Teaching Graduate and Undergraduate courses:
+          - High Performance Computing (COMP 6786)
+          - Computer Organizations (COMP 4016).
+          - Programming Languages (COMP 4036).
+          - Computer Graphics (COMP 4046).
+          - Mathematical Analysis for Management Sciences (MATE 3049 - Summer)
+        * Coordinate Infomate course.
+        * Coordinate Diagnostic exam.
+      
   - title: Professor of Semiconductor Physics2
     company: University X
     company_url: ''
