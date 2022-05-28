@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: University of Puerto Rico, at Mayaguez
     company_url: ''
-    company_logo: org-x
+    company_logo: seal-rum-uprm
     location: Mayaguez, PR
     date_start: '2021-01-31'
     date_end: ''
