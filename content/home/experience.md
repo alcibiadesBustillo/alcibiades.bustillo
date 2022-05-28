@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Mayaguez, PR
-    date_start: '01-04-2021'
+    date_start: '2021-01-31'
     date_end: ''
     description: Taught Graduate and Undergraduate courses
 
