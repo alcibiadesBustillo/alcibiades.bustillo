@@ -74,7 +74,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-
+---
 title: 'A new family of 3D watermarks'
 
 # Authors
