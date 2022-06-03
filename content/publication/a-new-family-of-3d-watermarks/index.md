@@ -1,7 +1,6 @@
 ---
 title: A New Family of 3D Watermarks
 publication_types:
-  - "0"
   - "1"
 authors:
   - admin
