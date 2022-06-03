@@ -3,7 +3,7 @@ title: A New Family of 3D Watermarks
 publication_types:
   - "1"
 authors:
-  - admin
+  - Cesar Bolaños, admin, Dorothy Bollman
 author_notes:
   - Equal contribution
   - Equal contribution
