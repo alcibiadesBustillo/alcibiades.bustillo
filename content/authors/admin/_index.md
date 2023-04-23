@@ -8,6 +8,7 @@ interests:
   - Combinatorics
   - High-performance Computing
   - Image Processing
+  - Teaching
 social:
   - icon: envelope
     icon_pack: fas
